@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-"# 2-Tier Backend Application
+2-Tier Backend Application
 
 A robust Node.js Express REST API with PostgreSQL database integration, the **2-Tier Backend Application** provides comprehensive user management functionality with validation, error handling, and database operations.
 
@@ -589,6 +588,4 @@ For support with the **2-Tier Backend Application**, email your-email@example.co
 ---
 
 **2-Tier Backend Application - Built with ❤️ using Node.js and PostgreSQL**" 
-=======
-# 2-Tier-Backend-Application
->>>>>>> 473e50a1a29ecf44da5c1adb842b2a42ec8fbb2b
+
